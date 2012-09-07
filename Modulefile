@@ -1,0 +1,7 @@
+name 'woneill-rssh'
+version '0.0.1'
+author 'William ONeill'
+summary 'Install and manage rssh (restricted shell)'
+description 'Install and manage rssh (restricted shell). See http://www.pizzashack.org/rssh/'
+source 'git://github.com/woneill/puppet-rssh'
+dependency 'puppetlabs-stdlib'
